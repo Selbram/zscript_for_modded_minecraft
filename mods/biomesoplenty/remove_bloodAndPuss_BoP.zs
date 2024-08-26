@@ -1,3 +1,7 @@
+# I am running a peaceful server for my kids and have removed all the  
+# weird stuff from the fleshy biome in biomes o plenty.
+# - Selbramwolf
+
 import crafttweaker.api.tag.MCTag;
 import crafttweaker.api.item.IItemStack;
 import crafttweaker.api.ingredient.IIngredient;
