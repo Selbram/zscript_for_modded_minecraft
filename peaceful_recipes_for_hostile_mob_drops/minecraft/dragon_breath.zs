@@ -11,7 +11,7 @@ import stdlib.List;
 
 craftingTable.addShapeless(
     "dragon_breath", <item:minecraft:dragon_breath>, [
-        <item:minecraft:potions>, <item:minecraft:popped_chorus_fruit>, <item:minecraft:popped_chorus_fruit>, <item:minecraft:gunpowder>
+        <item:minecraft:potion>, <item:minecraft:popped_chorus_fruit>, <item:minecraft:popped_chorus_fruit>, <item:minecraft:gunpowder>
     ]
 );
 
