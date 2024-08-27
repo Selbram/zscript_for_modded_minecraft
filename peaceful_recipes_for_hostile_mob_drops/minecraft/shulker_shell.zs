@@ -13,6 +13,6 @@ craftingTable.addShaped(
     "shulker_shell", <item:minecraft:shulker_shell>, [
         [<item:minecraft:bone_block>, <item:minecraft:bone_block>, <item:minecraft:bone_block>],
         [<item:minecraft:bone_block>, <item:minecraft:purple_dye>, <item:minecraft:bone_block>],
-        [<item:minecraft:bone_block>, <item:minecraft:air>, <item:minecraft:bone_block>]
+        [<item:minecraft:bone_block>, <item:minecraft:ender_pearl>, <item:minecraft:bone_block>]
     ]
 );
