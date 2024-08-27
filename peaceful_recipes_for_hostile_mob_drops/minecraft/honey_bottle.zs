@@ -11,7 +11,7 @@ import stdlib.List;
 
 craftingTable.addShapeless(
     "honey_bottle", <item:minecraft:honey_bottle>, [
-        <tag:item:c:potions>, <item:minecraft:sugar>, <item:minecraft:sugar>, <tag:item:minecraft:flowers>
+        <item:minecraft:potion>, <item:minecraft:sugar>, <item:minecraft:sugar>, <tag:item:minecraft:flowers>
     ]
 );
 
