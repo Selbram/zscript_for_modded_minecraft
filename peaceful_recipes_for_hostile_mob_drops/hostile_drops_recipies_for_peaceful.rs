@@ -10,8 +10,8 @@ Phantom membranes (leather center, feather corner, slimeball gap)
 Shulker shells (purple die center, bone block pants)
 Nether stars (sea lantern middle, diamond block corners, echo shard gap)
 Bones (from bone meal obtained from a composter) (diagnol bone meal)
-
 Tridents (prismarine shaft, sea lantern forks)
+
 Totems of Undying (ghast tear center bottom, emerald block right and left, rest gold block)
 Sponges (water bucket center, fish corner, white wool bottom, green woold left and right, yellow wool up)
 Dragon breath (potion bottle, two popped chorus, gunpowder)
