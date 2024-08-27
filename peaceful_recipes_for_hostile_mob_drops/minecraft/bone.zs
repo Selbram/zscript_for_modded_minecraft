@@ -10,7 +10,7 @@ import crafttweaker.api.item.ItemDefinition;
 import stdlib.List;
 
 craftingTable.addShaped(
-    "bone", <item:minecraft:bone>, [
+    "bone1", <item:minecraft:bone>, [
         [<item:minecraft:bone_meal>],
         [<item:minecraft:air>, <item:minecraft:bone_meal>],
         [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:bone_meal>]
@@ -18,7 +18,7 @@ craftingTable.addShaped(
 );
 
 craftingTable.addShaped(
-    "bone", <item:minecraft:bone>, [
+    "bone2", <item:minecraft:bone>, [
         [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:bone_meal>],
         [<item:minecraft:air>, <item:minecraft:bone_meal>],
         [<item:minecraft:bone_meal>]
