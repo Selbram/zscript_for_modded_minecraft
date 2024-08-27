@@ -15,8 +15,8 @@ Totems of Undying (ghast tear center bottom, emerald block right and left, rest 
 Sponges (water bucket center, fish corner, white wool bottom, green woold left and right, yellow wool up)
 Dragon breath (potion bottle, two popped chorus, gunpowder)
 Honeycomb (6 honey block, 3 bonemeal)
-
 Rabbit Hide (honeycomb center, paper corner, string gap)
+
 Honey Bottle (potion, two sugar, flower)
 Feather (stick, two paper, string)
 Froglights (all colors) (glowstone, gap phantom membran, corners one of glowstondust, emerald, amythyst)
