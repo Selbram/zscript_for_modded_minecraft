@@ -1,4 +1,3 @@
 peaceful_recipes_for_hostile_mob_drops.zip
-mods/
-mods/biomesoplenty/
-remove_bloodAndPuss_BoP.zs
+/mods/*
+/mods/biomesoplenty/*
